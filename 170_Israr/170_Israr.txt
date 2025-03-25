@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello i am israrThis a change in master branch
+=======
+Hello i am israrThis a change in br1 branch
+>>>>>>> br1
